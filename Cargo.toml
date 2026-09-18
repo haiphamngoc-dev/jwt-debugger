@@ -34,3 +34,8 @@ thiserror = "2.0.20"
 url = "2.5.8"
 zeroize = "1.8.1"
 
+[dev-dependencies]
+assert_cmd = "2.2.2"
+predicates = "3.1.4"
+tempfile = "3.27.0"
+
