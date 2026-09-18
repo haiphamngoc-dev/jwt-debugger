@@ -2,5 +2,12 @@
 name = "jwt-debugger"
 version = "0.1.0"
 edition = "2024"
+authors = ["Hai Pham Ngoc <haiphamngoc.tech@gmail.com>"]
+description = "A comprehensive CLI tool to inspect, decode, verify, and debug JSON Web Tokens (JWT/JWS/JWK/JWKS)"
+license = "MIT"
+readme = "README.md"
+keywords = ["jwt", "jws", "jwk", "jwks", "crypto", "cli", "security"]
+categories = ["command-line-utilities", "cryptography", "development-tools"]
+repository = "https://github.com/haiphamngoc-dev/jwt-debugger"
 
 [dependencies]
