@@ -11,3 +11,9 @@ categories = ["command-line-utilities", "cryptography", "development-tools"]
 repository = "https://github.com/haiphamngoc-dev/jwt-debugger"
 
 [dependencies]
+base64 = "0.23.1"
+chrono = "0.4.45"
+chrono-tz = "0.10.4"
+humantime = "2.4.0"
+serde = { version = "1.0.229", features = ["derive"] }
+thiserror = "2.0.20"
