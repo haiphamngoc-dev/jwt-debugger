@@ -2,7 +2,7 @@
 
 [English](README.md) | [Tiếng Việt](README.vi.md)
 
-[![CI](https://github.com/haiphamngoc-dev/jwt-debugger/actions/workflows/ci.yml/badge.svg)](https://github.com/haiphamngoc-dev/jwt-debugger/actions)
+[![CI](https://github.com/haiphamngoc-dev/jwt-debugger/actions/workflows/ci.yml/badge.svg)](https://github.com/haiphamngoc-dev/jwt-debugger/actions/workflows/ci.yml)
 [![Crates.io](https://img.shields.io/crates/v/jwt-debugger.svg)](https://crates.io/crates/jwt-debugger)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Rust: 1.80+](https://img.shields.io/badge/Rust-1.80%2B-orange.svg)](https://www.rust-lang.org)
