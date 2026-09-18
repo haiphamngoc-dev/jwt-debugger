@@ -395,6 +395,20 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
 
 ---
 
+## Bộ Tài Liệu Chuyên Sâu Về JWT & JOSE
+
+Để tìm hiểu chi tiết toàn diện từ lý thuyết mật mã học đến kiến trúc triển khai thực tế, bạn có thể tham khảo [Bộ Tài Liệu Kỹ Thuật (Tiếng Việt)](docs/README.md):
+
+- [Chương 1: Tổng Quan & Kiến Trúc (Stateful vs Stateless, JWS vs JWE)](docs/01-tong-quan-va-kien-truc.md)
+- [Chương 2: Cấu Trúc Phân Đoạn & Mã Hóa Base64URL](docs/02-cau-truc-va-ma-hoa-base64url.md)
+- [Chương 3: Các Thuật Toán Ký Số JWA (HMAC, RSA, ECDSA, EdDSA)](docs/03-cac-thuat-toan-ky-jwa.md)
+- [Chương 4: Tiêu Chuẩn JWK & JWKS (OIDC Discovery, Zero-Downtime Key Rotation)](docs/04-tieu-chuan-jwk-va-jwks.md)
+- [Chương 5: Các Lỗ Hổng Bảo Mật Kinh Điển & Chiến Lược Phòng Thủ](docs/05-cac-lo-hong-bao-mat-kinh-dien.md)
+- [Chương 6: Best Practices & Chuẩn Kiến Trúc Triển Khai Thực Tế](docs/06-best-practices-va-chuan-trien-khai.md)
+- [Chương 7: Sổ Tay Thực Chiến & Kiểm Thử với jwt-debugger CLI](docs/07-so-tay-thuc-chien-jwt-debugger.md)
+
+---
+
 ## Tiêu Chuẩn & Đặc Tả Kỹ Thuật (RFC)
 
 - **[RFC 7519](https://datatracker.ietf.org/doc/html/rfc7519)**: JSON Web Token (JWT)

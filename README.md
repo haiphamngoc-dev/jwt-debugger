@@ -395,6 +395,20 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
 
 ---
 
+## Documentation
+
+For a comprehensive, production-grade guide to JSON Web Tokens and the JOSE ecosystem (available in Vietnamese), explore our [Documentation Series](docs/README.md):
+
+- [Chapter 1: Overview & Architecture (Stateful vs Stateless, JWS vs JWE)](docs/01-tong-quan-va-kien-truc.md)
+- [Chapter 2: Structure & Base64URL Encoding](docs/02-cau-truc-va-ma-hoa-base64url.md)
+- [Chapter 3: JWA Cryptographic Algorithms (HMAC, RSA, ECDSA, EdDSA)](docs/03-cac-thuat-toan-ky-jwa.md)
+- [Chapter 4: JWK & JWKS Standards (OIDC Discovery, Zero-Downtime Key Rotation)](docs/04-tieu-chuan-jwk-va-jwks.md)
+- [Chapter 5: Classic Security Vulnerabilities & Defense Mechanisms](docs/05-cac-lo-hong-bao-mat-kinh-dien.md)
+- [Chapter 6: Production Best Practices & Architectural Patterns](docs/06-best-practices-va-chuan-trien-khai.md)
+- [Chapter 7: Practical Cookbook with jwt-debugger CLI](docs/07-so-tay-thuc-chien-jwt-debugger.md)
+
+---
+
 ## Supported Standards & Specifications
 
 - **[RFC 7519](https://datatracker.ietf.org/doc/html/rfc7519)**: JSON Web Token (JWT)
