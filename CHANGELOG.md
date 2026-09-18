@@ -11,6 +11,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Add comprehensive Vietnamese technical documentation series for JWT and JOSE - ([0310142](https://github.com/haiphamngoc-dev/jwt-debugger/commit/031014298218fc61ab63d798e9600884edd1595b))
 
+### Maintenance
+
+- Add GitHub Actions CI workflow and update README status badge - ([3ec4627](https://github.com/haiphamngoc-dev/jwt-debugger/commit/3ec4627703cbbdd654fa0ddc76417f0f70b58dd0))
+
 ## [0.1.0] - 2026-09-18
 
 ### Documentation
